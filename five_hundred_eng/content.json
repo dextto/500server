@@ -1,0 +1,2032 @@
+{
+    "A": [
+        {
+            "eng": "A piece of cake.",
+            "kor": "식은 죽 먹기지요"
+        },
+        {
+            "eng": "Absolutely.",
+            "kor": "당근!"
+        },
+        {
+            "eng": "After you.",
+            "kor": "먼저 가시지요"
+        },
+        {
+            "eng": "Always.",
+            "kor": "항상 그렇지요"
+        },
+        {
+            "eng": "Amazing.",
+            "kor": "대단하네요"
+        },
+        {
+            "eng": "And then?",
+            "kor": "그리고 나서는요?"
+        },
+        {
+            "eng": "Any good ideas?",
+            "kor": "어떤 좋은 생각이라도?"
+        },
+        {
+            "eng": "Any time.",
+            "kor": "언제라도요"
+        },
+        {
+            "eng": "Anybody home?",
+            "kor": "집에 누구있어요?"
+        },
+        {
+            "eng": "Anything else?",
+            "kor": "그 밖에 또 뭐요?"
+        },
+        {
+            "eng": "Are you in line?",
+            "kor": "지금 줄에 서 계신거죠?"
+        },
+        {
+            "eng": "Are you kidding?",
+            "kor": "놀리는거 아니죠?"
+        },
+        {
+            "eng": "Are you serious?",
+            "kor": "그거 진짜예요?"
+        },
+        {
+            "eng": "At last.",
+            "kor": "드디어"
+        },
+        {
+            "eng": "Attention, please!",
+            "kor": "좀 주목 해 주세요"
+        },
+        {
+            "eng": "Awesome!",
+            "kor": "와우~ 멋지다"
+        }
+    ],
+    "B": [
+        {
+            "eng": "Back me up.",
+            "kor": "뒤좀 봐줘~ (지원해 달라는 의미의)"
+        },
+        {
+            "eng": "Be my guest.",
+            "kor": "사양하지 마세요, 그럼 한번 해보세요, 어서 해보세요"
+        },
+        {
+            "eng": "Be patient.",
+            "kor": "조금만 참아 보세요"
+        },
+        {
+            "eng": "Be punctual!",
+            "kor": "시간좀 지켜!"
+        },
+        {
+            "eng": "Be right back with you.",
+            "kor": "잠깐만요 (곧 당신에게 돌아 올께요)"
+        },
+        {
+            "eng": "Be seated.",
+            "kor": "앉으시죠"
+        },
+        {
+            "eng": "Beat it.",
+            "kor": "(이자리에서) 꺼져"
+        },
+        {
+            "eng": "(Beer), please.",
+            "kor": "(맥주) 주세요"
+        },
+        {
+            "eng": "Behave yourself.",
+            "kor": "예의를 갖추시죠!"
+        },
+        {
+            "eng": "Better late than never.",
+            "kor": "안하느니보단 늦는게 낫죠."
+        },
+        {
+            "eng": "Better than nothing.",
+            "kor": "없는 것보다는 낫지요"
+        },
+        {
+            "eng": "Boy! It hurts.",
+            "kor": "와, 진짜 아프네"
+        },
+        {
+            "eng": "Break it up.",
+            "kor": "그만 좀 싸워"
+        }
+    ],
+    "C": [
+        {
+            "eng": "Call me Sam, please.",
+            "kor": "샘이라고 불러 주세요"
+        },
+        {
+            "eng": "Can I get a ride?",
+            "kor": "나를 태워다 줄 수 있어요?"
+        },
+        {
+            "eng": "Can you hear me now?",
+            "kor": "잘 들려요?"
+        },
+        {
+            "eng": "Can't argue with that.",
+            "kor": "그건 논란의 여지가 없죠"
+        },
+        {
+            "eng": "Can't be better than this.",
+            "kor": "이것보다 더 좋을 순 없지요"
+        },
+        {
+            "eng": "Cash or charge?",
+            "kor": "현찰이요 아니면 신용카드?"
+        },
+        {
+            "eng": "Catch you later.",
+            "kor": "나중에 보자구요 (혹은 나중에 들을께요)"
+        },
+        {
+            "eng": "Certainly.",
+            "kor": "확실히 그렇죠.."
+        },
+        {
+            "eng": "Charge it please.",
+            "kor": "신용카드로 계산할게요."
+        },
+        {
+            "eng": "Check it out.",
+            "kor": "확인해 봐봐"
+        },
+        {
+            "eng": "Check, please.",
+            "kor": "계산서 좀 주세요"
+        },
+        {
+            "eng": "Cheer up!",
+            "kor": "기운내요 (혹은 화이팅!)"
+        },
+        {
+            "eng": "Cheers!",
+            "kor": "건배"
+        },
+        {
+            "eng": "(Coffee), please.",
+            "kor": "(커피) 주세요"
+        },
+        {
+            "eng": "Come and get it.",
+            "kor": "와서 가져가요 (와서 먹어요)"
+        },
+        {
+            "eng": "Come on in.",
+            "kor": "들어와요"
+        },
+        {
+            "eng": "Come on.",
+            "kor": "설마 (혹은 에이~~)"
+        },
+        {
+            "eng": "Congratulations!",
+            "kor": "축하 합니다"
+        },
+        {
+            "eng": "Could be.",
+            "kor": "그럴 수도 있죠"
+        },
+        {
+            "eng": "Couldn't be better than this.",
+            "kor": "이보다 더 좋을 순 없어"
+        }
+    ],
+    "D": [
+        {
+            "eng": "Definitely.",
+            "kor": "그럼! (물론이죠 등 강한 동의)"
+        },
+        {
+            "eng": "Delicious!",
+            "kor": "맛있어요"
+        },
+        {
+            "eng": "Depends.",
+            "kor": "경우에 따라 다르지요"
+        },
+        {
+            "eng": "Did you get it?",
+            "kor": "알아 들었어요?"
+        },
+        {
+            "eng": "Didn't I make myself clear?",
+            "kor": "제 입장을 확실하게 말하지 않았나요?"
+        },
+        {
+            "eng": "Disgusting!",
+            "kor": "기분 나빠. 재수 없어"
+        },
+        {
+            "eng": "Do I know it?",
+            "kor": "저도 압니다. 누가 아니래요?"
+        },
+        {
+            "eng": "Do I look all right?",
+            "kor": "제가 괜찮아 보여요?"
+        },
+        {
+            "eng": "Do you follow me?",
+            "kor": "제 말 알아 듣겠어요?"
+        },
+        {
+            "eng": "Do you have everything with you?",
+            "kor": "다 가지고 계신거죠?"
+        },
+        {
+            "eng": "Do you?",
+            "kor": "당신은요?"
+        },
+        {
+            "eng": "Doing okay?",
+            "kor": "잘 하고 있어요?"
+        },
+        {
+            "eng": "Don’t get too serious.",
+            "kor": "너무 심각하게 그러지 말아요 (편하게 생각하세요)"
+        },
+        {
+            "eng": "Don’t miss the boat.",
+            "kor": "(보트를 놓치듯이) 기회를 놓지지 마세요"
+        },
+        {
+            "eng": "Don’t press your luck.",
+            "kor": "너무 날 뛰지 마세요 (너무 행운만 믿지 말아요)"
+        },
+        {
+            "eng": "Don't ask.",
+            "kor": "묻지 말아요"
+        },
+        {
+            "eng": "Don't be a chicken.",
+            "kor": "너무 소심하게 굴지 말아요. (겁먹을 것 없어요)"
+        },
+        {
+            "eng": "Don't be afraid.",
+            "kor": "두려워 하지 마세요"
+        },
+        {
+            "eng": "Don't be foolish.",
+            "kor": "멍청하게 굴지 말아요"
+        },
+        {
+            "eng": "Don't be modest.",
+            "kor": "겸손해 하지 말아요"
+        },
+        {
+            "eng": "Don't be shy.",
+            "kor": "부끄러워 하지 마세요"
+        },
+        {
+            "eng": "Don't be silly.",
+            "kor": "싱겁게 놀지 말아요"
+        },
+        {
+            "eng": "Don't bother.",
+            "kor": "신경쓰지 마세요"
+        },
+        {
+            "eng": "Don't bother me.",
+            "kor": "나를 괴롭히지 마세요"
+        },
+        {
+            "eng": "Don't change the subject!",
+            "kor": "화제를 다른데로 돌리지 마요"
+        },
+        {
+            "eng": "Don't get into trouble. (Stay out of trouble.)",
+            "kor": "괜히 껴들지 마세요"
+        },
+        {
+            "eng": "Don't get upset.",
+            "kor": "너무 화내지 말아요"
+        },
+        {
+            "eng": "Don't mess with me.",
+            "kor": "나하고 해보자는 거죠 (저에게 함부로 하지 마세요)"
+        },
+        {
+            "eng": "Don't let me down.",
+            "kor": "나를 실망시키지 말아요"
+        },
+        {
+            "eng": "Don't make me laugh.",
+            "kor": "나 좀 웃기지 마요"
+        },
+        {
+            "eng": "Don't push me!",
+            "kor": "너무 강요 하지 말아요"
+        },
+        {
+            "eng": "Don't push!",
+            "kor": "밀지 말아요."
+        },
+        {
+            "eng": "Don't worry about it.",
+            "kor": "걱정하지 말아요"
+        },
+        {
+            "eng": "Drive safely!",
+            "kor": "안전운행 하세요~~"
+        }
+    ],
+    "E": [
+        {
+            "eng": "Easy does it.",
+            "kor": "천천히 해요. 조심스럽게 하세요 (혹은 진정해요. 성질내지 말고)"
+        },
+        {
+            "eng": "Either will do. (Anything will do.)",
+            "kor": "둘중에 어떤 것이든 되요 (어떤 것이든 되요)"
+        },
+        {
+            "eng": "Enjoy your meal.",
+            "kor": "맛있게 드세요"
+        },
+        {
+            "eng": "Enough is enough.",
+            "kor": "충분 하니까 이제 그만 해요"
+        },
+        {
+            "eng": "Exactly.",
+            "kor": "바로 그거죠."
+        },
+        {
+            "eng": "Excellent! (Super!)",
+            "kor": "최고! (짱!)"
+        },
+        {
+            "eng": "Excuse me.",
+            "kor": "실례합니다"
+        }
+    ],
+    "F": [
+        {
+            "eng": "Far from it.",
+            "kor": "아직 멀었지요"
+        },
+        {
+            "eng": "Fifty-fifty.",
+            "kor": "50:50 이죠."
+        },
+        {
+            "eng": "Follow me.",
+            "kor": "따라 오세요"
+        },
+        {
+            "eng": "For good?",
+            "kor": "영원히?"
+        },
+        {
+            "eng": "For what?",
+            "kor": "왜? 뭣땀시?"
+        },
+        {
+            "eng": "Forget it.",
+            "kor": "그것에 대해서는 잊어 버리세요. 신경꺼요."
+        }
+    ],
+    "G": [
+        {
+            "eng": "Get in the line.",
+            "kor": "줄을 서세요"
+        },
+        {
+            "eng": "Get lost!",
+            "kor": "당장 꺼져 버려"
+        },
+        {
+            "eng": "Get off my back.",
+            "kor": "(등에 업혀 있지 말고) 이제 나를 고만 괴롭혀요"
+        },
+        {
+            "eng": "Get real!",
+            "kor": "현실적이 되세요. 냉정해 지세요"
+        },
+        {
+            "eng": "Get the picture?",
+            "kor": "완전히 이해가 되세요?"
+        },
+        {
+            "eng": "Give it a rest.",
+            "kor": "내버려 두세요"
+        },
+        {
+            "eng": "Give it a try.",
+            "kor": "노력해 보세요 (혹은 한번 시도해 보세요)"
+        },
+        {
+            "eng": "Give me a call.",
+            "kor": "제게 전화 주세요"
+        },
+        {
+            "eng": "Gladly.",
+            "kor": "기꺼이 하지요"
+        },
+        {
+            "eng": "Go ahead.",
+            "kor": "하세요 (얘기 하다가 말을 잘라 먹었을 때 ‘말씀하세요' 하는 의미로도 쓰임)"
+        },
+        {
+            "eng": "Go fifty-fifty.",
+            "kor": "반반 나누어 내지요"
+        },
+        {
+            "eng": "Go for it.",
+            "kor": "한번 해 보시지요. 노력 해 보시지요 (화이팅! 의 의미로도 쓰여요)"
+        },
+        {
+            "eng": "Go get it.",
+            "kor": "가서 가져와요 (혹은 격려의 의미로 '한번 해봐!' 로도)"
+        },
+        {
+            "eng": "Go on, please.",
+            "kor": "어서 계속 하세요"
+        },
+        {
+            "eng": "Going down?",
+            "kor": "내려 가세요? (주로 엘리베이터에서)"
+        },
+        {
+            "eng": "Going up?",
+            "kor": "올라 가세요? (주로 엘리베이터에서)"
+        },
+        {
+            "eng": "Good enough.",
+            "kor": "그 정도면 충분 합니다. 좋습니다."
+        },
+        {
+            "eng": "Good for you.",
+            "kor": "잘 되었네요 (약한 축하의 의미로)"
+        },
+        {
+            "eng": "Good luck to you!",
+            "kor": "당신에게 행운을 빕니다"
+        },
+        {
+            "eng": "Good luck.",
+            "kor": "행운을 빕니다"
+        },
+        {
+            "eng": "Good talking to you.",
+            "kor": "당신과의 대화는 즐거 웠어요"
+        },
+        {
+            "eng": "Grow up!",
+            "kor": "좀 철좀 들어라"
+        },
+        {
+            "eng": "Guess what?",
+            "kor": "뭔지 알아 맞추어 봐요"
+        }
+    ],
+    "H": [
+        {
+            "eng": "Hang in there.",
+            "kor": "잘 견디고 있어 주세요"
+        },
+        {
+            "eng": "Hang loose.",
+            "kor": "좀 편히 쉬고 있어요."
+        },
+        {
+            "eng": "Hang on!",
+            "kor": "잠깐만!"
+        },
+        {
+            "eng": "Have a nice day.",
+            "kor": "좋은 하루 되세요"
+        },
+        {
+            "eng": "Have fun!",
+            "kor": "재미있게 즐겨!"
+        },
+        {
+            "eng": "He didn't show up.",
+            "kor": "그가 나타나지 않았어요"
+        },
+        {
+            "eng": "He is history to me.",
+            "kor": "그는 저에게 이미 지난 일"
+        },
+        {
+            "eng": "Help me!",
+            "kor": "도와주세요"
+        },
+        {
+            "eng": "Help yourself.",
+            "kor": "마음껏 드세요"
+        },
+        {
+            "eng": "Here is something for you.",
+            "kor": "여기 당신을 위해 준비했어요"
+        },
+        {
+            "eng": "Here you are.",
+            "kor": "여깄어요"
+        },
+        {
+            "eng": "Hi.",
+            "kor": "안녕"
+        },
+        {
+            "eng": "Hold it!",
+            "kor": "움직이지 마요. 잠깐만!"
+        },
+        {
+            "eng": "Hold on.",
+            "kor": "잠깐 기다리세요"
+        },
+        {
+            "eng": "How about you?",
+            "kor": "당신은 어때요?"
+        },
+        {
+            "eng": "How big is it?",
+            "kor": "얼마나 큰데요?"
+        },
+        {
+            "eng": "How come? (Why?)",
+            "kor": "어떻게? (왜?) : 사실 how come 과 why 는 조금 의미가 다릅니다"
+        },
+        {
+            "eng": "How do you like here?",
+            "kor": "여기 좋아하세요?"
+        },
+        {
+            "eng": "How have you been?",
+            "kor": "그동안 어떻게 지냈어요?"
+        },
+        {
+            "eng": "How many times do I have to say?",
+            "kor": "몇번이나 말해야 알겠어요?"
+        },
+        {
+            "eng": "How many?",
+            "kor": "몇개나?"
+        },
+        {
+            "eng": "How much?",
+            "kor": "얼마나 많이?"
+        },
+        {
+            "eng": "How was your trip (vacation)?",
+            "kor": "여행 (휴가)는 어땠어요?"
+        },
+        {
+            "eng": "How?",
+            "kor": "어떻게?"
+        },
+        {
+            "eng": "How's everything?",
+            "kor": "다 잘 되고 있죠? (안부의 의미로)"
+        },
+        {
+            "eng": "How's work?",
+            "kor": "일은 좀 어때요?"
+        },
+        {
+            "eng": "How's your family?",
+            "kor": "가족은 잘 있어요?"
+        }
+    ],
+    "I": [
+        {
+            "eng": "I agree.",
+            "kor": "동의합니다"
+        },
+        {
+            "eng": "I am (deeply) touched.",
+            "kor": "정말 감동했어요."
+        },
+        {
+            "eng": "I am a little disappointed.",
+            "kor": "좀 실망했어요"
+        },
+        {
+            "eng": "I am all set.",
+            "kor": "준비 끝!"
+        },
+        {
+            "eng": "I am aware of that.",
+            "kor": "그점에 대해서는 잘 알고 있습니다."
+        },
+        {
+            "eng": "I am back.",
+            "kor": "저 돌아 왔어요"
+        },
+        {
+            "eng": "I am broke.",
+            "kor": "저 무일푼입니다 (완전 파산상태예요)"
+        },
+        {
+            "eng": "I am coming.",
+            "kor": "지금 가요"
+        },
+        {
+            "eng": "I am crazy about her.",
+            "kor": "나는 그녀에 빠졌어요"
+        },
+        {
+            "eng": "I am exhausted.",
+            "kor": "완전 지쳤어요."
+        },
+        {
+            "eng": "I am fed up with this.",
+            "kor": "정말 (이것에 관한한) 진저리가 나요"
+        },
+        {
+            "eng": "I am free.",
+            "kor": "한가해요"
+        },
+        {
+            "eng": "I am full.",
+            "kor": "배불러요"
+        },
+        {
+            "eng": "I am getting hungry.",
+            "kor": "배가 슬슬 고파 오는데요"
+        },
+        {
+            "eng": "I am going to miss you.",
+            "kor": "널 그리워하게 될거야"
+        },
+        {
+            "eng": "I am impressed.",
+            "kor": "감동 받았어요."
+        },
+        {
+            "eng": "I am in a hurry.",
+            "kor": "좀 바쁩니다 (저 급해요)"
+        },
+        {
+            "eng": "I am in need.",
+            "kor": "궁색 합니다"
+        },
+        {
+            "eng": "I am nearsighted.",
+            "kor": "근시입니다"
+        },
+        {
+            "eng": "I am on duty.",
+            "kor": "근무중입니다"
+        },
+        {
+            "eng": "I am scared to death.",
+            "kor": "무서워 죽겠어요"
+        },
+        {
+            "eng": "I am serious.",
+            "kor": "난 진심이라구요 (농담 아니라니깐요)"
+        },
+        {
+            "eng": "I am short-changed.",
+            "kor": "잔돈이 모자라는데요"
+        },
+        {
+            "eng": "I am single.",
+            "kor": "나는 미혼입니다"
+        },
+        {
+            "eng": "I am sorry.",
+            "kor": "미안해요"
+        },
+        {
+            "eng": "I am starving to death.",
+            "kor": "배가 고파 죽겠네여"
+        },
+        {
+            "eng": "I am stuffed.",
+            "kor": "배 불러요 (더 이상 들어가지 못할 만큼 배부르다는 뜻으로도 쓰여요)"
+        },
+        {
+            "eng": "I am upset.",
+            "kor": "화가 납니다"
+        },
+        {
+            "eng": "I bet.",
+            "kor": "내가 장담컨대 (내기를 할정도로 자신있다) 혹은 ‘물론’이라는 동의어로 쓰여요."
+        },
+        {
+            "eng": "I can tell.",
+            "kor": "그렇게 보이는데요 (그래 보여요)"
+        },
+        {
+            "eng": "I can handle it.",
+            "kor": "내가 할 수 있어요"
+        },
+        {
+            "eng": "I can not handle it anymore.",
+            "kor": "난 더 이상 감당할 수 없네요"
+        },
+        {
+            "eng": "I can’t afford that.",
+            "kor": "(주로 재정적으로) 감당이 안되요 (제 형편에 무리예요 로도 사용)"
+        },
+        {
+            "eng": "I can’t help it.",
+            "kor": "어쩔수 없어요"
+        },
+        {
+            "eng": "I can't say for sure.",
+            "kor": "확실히는 말 못 하겠어요"
+        },
+        {
+            "eng": "I can't stand it.",
+            "kor": "견딜 수 가 없군 (못 참겠어!)"
+        },
+        {
+            "eng": "I can't thank you enough.",
+            "kor": "뭐라 감사의 말씀을 드려야할지 모르겠어요"
+        },
+        {
+            "eng": "I didn't mean to. (I didn't mean it.)",
+            "kor": "난 그렇게 할 의도는 아니었어요.  (일부러 그런건 아니예요)"
+        },
+        {
+            "eng": "I don’t believe it.",
+            "kor": "난 믿지 않아요"
+        },
+        {
+            "eng": "I don't care.",
+            "kor": "상관없어요"
+        },
+        {
+            "eng": "I don't get it.",
+            "kor": "이해를 못하겠네"
+        },
+        {
+            "eng": "I don't like it.",
+            "kor": "(그것이) 싫어 (좋아하지 않아요)"
+        },
+        {
+            "eng": "I doubt it.",
+            "kor": "아닌 것 같은데.  (No 대신에 정말 많이 쓰는 표현. 완곡한 No의 표현)"
+        },
+        {
+            "eng": "I feel the same way.",
+            "kor": "저도 똑같이 느꼈어요."
+        },
+        {
+            "eng": "I get it.",
+            "kor": "알아 들었어요"
+        },
+        {
+            "eng": "I got lost.",
+            "kor": "난 길을 잃었어요"
+        },
+        {
+            "eng": "I have got to go now.",
+            "kor": "이제 가야겠네요"
+        },
+        {
+            "eng": "I have had enough. I quit.",
+            "kor": "난 이제 진저리가 나요.  그만 둘래요"
+        },
+        {
+            "eng": "I hardly know him.",
+            "kor": "나는 그 사람을 잘 모릅니다"
+        },
+        {
+            "eng": "I hate to eat and run but.",
+            "kor": "먹자마자 가기는 싫지만…"
+        },
+        {
+            "eng": "I have a long way to go.",
+            "kor": "갈길이 머네요"
+        },
+        {
+            "eng": "I have no appetite.",
+            "kor": "식욕이 없어요"
+        },
+        {
+            "eng": "I have no clue.",
+            "kor": "아이디어가 전혀 없네요 (어찌할지 모르겠네요)"
+        },
+        {
+            "eng": "I have no energy.",
+            "kor": "의욕이 없어요"
+        },
+        {
+            "eng": "I have no idea.",
+            "kor": "전혀 몰라요"
+        },
+        {
+            "eng": "I have no time.",
+            "kor": "나는 시간이 없어요. 바쁘네요."
+        },
+        {
+            "eng": "I haven't got all day.",
+            "kor": "좀 서둘러 주시겠어요?  (제가 시간이 좀 없어요)"
+        },
+        {
+            "eng": "I hear you loud and clear.",
+            "kor": "잘 듣고 있습니다."
+        },
+        {
+            "eng": "I know what!",
+            "kor": "아! 알았어요!"
+        },
+        {
+            "eng": "I love it.",
+            "kor": "정말 좋아해"
+        },
+        {
+            "eng": "I made it.",
+            "kor": "제가 해냈어요!"
+        },
+        {
+            "eng": "I mean it.",
+            "kor": "정말입니다.  농담아니에요."
+        },
+        {
+            "eng": "I owe you one　.",
+            "kor": "신세를 지네요"
+        },
+        {
+            "eng": "I see.",
+            "kor": "알겠습니다"
+        },
+        {
+            "eng": "I still love you.",
+            "kor": "난 널 아직도 사랑해"
+        },
+        {
+            "eng": "I swear to God.",
+            "kor": "내가 맹새컨데 (내가 맹세할 수 있다규!)"
+        },
+        {
+            "eng": "I taught myself.",
+            "kor": "(누가 가르쳐 준 사람 없이) 혼자 익혔어요"
+        },
+        {
+            "eng": "I was lucky.",
+            "kor": "정말 운이 좋았죠"
+        },
+        {
+            "eng": "I was told that.",
+            "kor": "그렇게 들었어요 혹은 제가 듣기에 (that 이하의 문장이 이어집니다)"
+        },
+        {
+            "eng": "I will be in touch.",
+            "kor": "제가 연락드릴께요."
+        },
+        {
+            "eng": "I will do it for you.",
+            "kor": "제가 해 드리지요"
+        },
+        {
+            "eng": "I will drink to that.",
+            "kor": "그것에 동감 입니다"
+        },
+        {
+            "eng": "I will get it.",
+            "kor": "(전화등을) 제가 받을 께요"
+        },
+        {
+            "eng": "I will miss you.",
+            "kor": "널 그리워 할거야"
+        },
+        {
+            "eng": "I will never make it on time.",
+            "kor": "제시간에 가기는 틀렸군"
+        },
+        {
+            "eng": "I wouldn't say no.",
+            "kor": "아니라고는 말하지 않을께여"
+        },
+        {
+            "eng": "I'm coming.",
+            "kor": "가요, 갑니다"
+        },
+        {
+            "eng": "In a sense, he is nothing but a suit.",
+            "kor": "어떤 면에서는 그는 헛깨비나 다름없어 (어떤 사람이 그 위치에 딱맞는 행동을 생각없이 수행하는 그런 걸 의미함)"
+        },
+        {
+            "eng": "Incredible.",
+            "kor": "대단해"
+        },
+        {
+            "eng": "Is that all?",
+            "kor": "그게 전부에요?"
+        },
+        {
+            "eng": "It is chilly.",
+            "kor": "날이 쌀쌀 하네"
+        },
+        {
+            "eng": "It is humid.",
+            "kor": "습하네요 (습기가 많은 날씨)"
+        },
+        {
+            "eng": "It is muggy.",
+            "kor": "날이 후덥지근하네 (온도 높고 습도 높고)"
+        },
+        {
+            "eng": "It is out of style.",
+            "kor": "유행이 아니네요."
+        },
+        {
+            "eng": "It is painful for me.",
+            "kor": "그건 (저에겐) 참 고통스럽네요"
+        },
+        {
+            "eng": "It is time for lunch.",
+            "kor": "점심식사할 시간입니다"
+        },
+        {
+            "eng": "It is time to go.",
+            "kor": "갈 시간 입니다"
+        },
+        {
+            "eng": "It is windy.",
+            "kor": "바람이 부네"
+        },
+        {
+            "eng": "It makes sense.",
+            "kor": "말 되네요"
+        },
+        {
+            "eng": "It takes time.",
+            "kor": "시간이 걸립니다"
+        },
+        {
+            "eng": "It’s for you.",
+            "kor": "여기요 전화 왔어요"
+        },
+        {
+            "eng": "It’s not fair.",
+            "kor": "(It's unfair) 불공평해요"
+        },
+        {
+            "eng": "It's all right.",
+            "kor": "괜찮습니다"
+        },
+        {
+            "eng": "It's beautiful.",
+            "kor": "아름답군요"
+        },
+        {
+            "eng": "It's cool.",
+            "kor": "멋있네요 (상황에 따라 괜찮아요 라는 뜻도 있습니다)"
+        },
+        {
+            "eng": "It's free.",
+            "kor": "공짜 입니다"
+        },
+        {
+            "eng": "It's freezing.",
+            "kor": "대박 춥네 (꽁꽁 얼어붙는다는 뜻에서 출발)"
+        },
+        {
+            "eng": "It's my fault.",
+            "kor": "제 잘못 이지요."
+        },
+        {
+            "eng": "It's all your fault.",
+            "kor": "모든게 네 잘못이야"
+        },
+        {
+            "eng": "It's my pleasure.",
+            "kor": "천만에요 (감사에 대한 답.  저도 그렇게 해드려 기쁩니다에서 유래)"
+        },
+        {
+            "eng": "It's my turn.",
+            "kor": "이번에 내 차례입니다"
+        },
+        {
+            "eng": "It's now or never.",
+            "kor": "지금이 절호의 기회입니다"
+        },
+        {
+            "eng": "It's on me. It's on the house. ",
+            "kor": "이건 제가 쏘는 겁니다. 이것은 주인집에서 써비스!"
+        },
+        {
+            "eng": "It's really bad.",
+            "kor": "아주 나빠요"
+        },
+        {
+            "eng": "It's tough.",
+            "kor": "힘들어요"
+        },
+        {
+            "eng": "It's your turn.",
+            "kor": "당신 차례입니다"
+        }
+    ],
+    "J": [
+        {
+            "eng": "Just about.",
+            "kor": "거의"
+        },
+        {
+            "eng": "Just kidding.",
+            "kor": "그냥 농담이에요"
+        },
+        {
+            "eng": "Just looking.",
+            "kor": "그냥 돌아 보는거에요 (쇼핑하러 가서 아이쇼핑할 때 쓰세요)"
+        },
+        {
+            "eng": "Just a moment.",
+            "kor": "잠깐 만요"
+        }
+    ],
+    "K": [
+        {
+            "eng": "Keep an eye on this, will you?",
+            "kor": "이것좀 봐주세요. 해주실거죠?"
+        },
+        {
+            "eng": "Keep going.",
+            "kor": "계속 가세요"
+        },
+        {
+            "eng": "Keep in touch.",
+            "kor": "계속 연락합시다"
+        },
+        {
+            "eng": "Keep it confidential.",
+            "kor": "대외 비밀로 해 주세요 (당신만 알고 계세요)"
+        },
+        {
+            "eng": "Keep it to yourself.",
+            "kor": "당신만 알고 계세요. (비밀로 해 주세요)"
+        },
+        {
+            "eng": "Keep looking.",
+            "kor": "계속해서 찾아 봐요"
+        },
+        {
+            "eng": "Keep out of my way.",
+            "kor": "제 길을 막지 마세요"
+        },
+        {
+            "eng": "Keep the change.",
+            "kor": "잔돈은 가지세요 (잔돈은 됐어요)"
+        },
+        {
+            "eng": "Keep your chin up!",
+            "kor": "고개를 드세요. 낙담 하지 마세요 기운을 내요"
+        },
+        {
+            "eng": "Knock it off.",
+            "kor": "그만해~~ (상대방이 놀리는 상황에서라든지 황당한 얘기를 할 때)"
+        }
+    ],
+    "L": [
+        {
+            "eng": "Large or small?",
+            "kor": "큰거요 아니면 작은 거요"
+        },
+        {
+            "eng": "Let it be!",
+            "kor": "내버려 둬!"
+        },
+        {
+            "eng": "Let me see…",
+            "kor": "어디 보자 (별 의미 없이 쓰는 접두어. 음... 정도)"
+        },
+        {
+            "eng": "Let me think about it.",
+            "kor": "제가 생각해 보죠 (이것도 의미없이 대화 중 음.. 하는 용도로 쓸 수 있어요)"
+        },
+        {
+            "eng": "Let's give him a big hand.",
+            "kor": "그에게 큰 박수를 보냅시다"
+        },
+        {
+            "eng": "Let's call it a day.",
+            "kor": "오늘은 이걸로 마치죠 (오늘은 여기까지 하죠)"
+        },
+        {
+            "eng": "Let's eat out.",
+            "kor": "자, 외식합시다"
+        },
+        {
+            "eng": "Let's get down to business.",
+            "kor": "자 본론으로 들어갑시다"
+        },
+        {
+            "eng": "Let's get together sometime.",
+            "kor": "언제 한번 함께 보죠"
+        },
+        {
+            "eng": "Let's go over it one more time.",
+            "kor": "자 한번 더 살펴 보지요"
+        },
+        {
+            "eng": "Let's see.",
+            "kor": "자 어디. (뭘 살펴볼 때 습관적으로 하는 말)"
+        },
+        {
+            "eng": "Let's split the bill.",
+            "kor": "나누어서 냅시다"
+        },
+        {
+            "eng": "Let's try.",
+            "kor": "한번 해보지요"
+        },
+        {
+            "eng": "Look who's here.",
+            "kor": "아니 이게 누구야"
+        },
+        {
+            "eng": "Lucky you!",
+            "kor": "자네 운이 좋았어"
+        }
+    ],
+    "M": [
+        {
+            "eng": "Make a way!",
+            "kor": "길을 비켜 주세요"
+        },
+        {
+            "eng": "Make mine well done.",
+            "kor": "내것은 well done (스테이크의) 으로 해줘요"
+        },
+        {
+            "eng": "Make that two, please.",
+            "kor": "저도 같은 걸로 주세요 (식당 등에서 상대와 같은 음식으로 할때)"
+        },
+        {
+            "eng": "Make yourself at home.",
+            "kor": "내집인양 편하게 계세요"
+        },
+        {
+            "eng": "Many thanks in advance.",
+            "kor": "미리 감사 드려요"
+        },
+        {
+            "eng": "Many thanks.",
+            "kor": "정말 고마워요"
+        },
+        {
+            "eng": "May I interrupt you?",
+            "kor": "제가 좀 실례를 해도 될까요?"
+        },
+        {
+            "eng": "Maybe.",
+            "kor": "그럴지도 모르지요"
+        },
+        {
+            "eng": "Maybe not.",
+            "kor": "그렇지 않을지도 모르지요"
+        },
+        {
+            "eng": "Maybe some other time.",
+            "kor": "다른 때 보자구요."
+        },
+        {
+            "eng": "Me, too.",
+            "kor": "나도 그래"
+        },
+        {
+            "eng": "Money talks.",
+            "kor": "결국 돈이지 뭐"
+        },
+        {
+            "eng": "Most likely.",
+            "kor": "아마도 그렇 것입니다"
+        },
+        {
+            "eng": "My pleasure.",
+            "kor": "제 기쁨입니다 (감사에 대한 답례로 항상 써요)"
+        }
+    ],
+    "N": [
+        {
+            "eng": "Never better.",
+            "kor": "아주 좋아요. 최고에요."
+        },
+        {
+            "eng": "Never mind.",
+            "kor": "신경쓰지 마세요"
+        },
+        {
+            "eng": "Never say die.",
+            "kor": "포기하지마"
+        },
+        {
+            "eng": "Never too late.",
+            "kor": "너무 늦었다고 생각하지 마"
+        },
+        {
+            "eng": "Next time.",
+            "kor": "다음번에"
+        },
+        {
+            "eng": "Nice meeting you.",
+            "kor": "만나서 반가웠어요 (만났다가 헤어질 때)"
+        },
+        {
+            "eng": "Nice talking to you.",
+            "kor": "좋은 대화였어요 (만났다가 헤어질 때)"
+        },
+        {
+            "eng": "No kidding.",
+            "kor": "그럴리가!"
+        },
+        {
+            "eng": "No problem.",
+            "kor": "문제 없어요"
+        },
+        {
+            "eng": "No sweat.",
+            "kor": "껌이죠"
+        },
+        {
+            "eng": "No way.",
+            "kor": "절대 안돼"
+        },
+        {
+            "eng": "No wonder.",
+            "kor": "어쩐지 그렇더라"
+        },
+        {
+            "eng": "Not a chance.",
+            "kor": "절대 안되지요"
+        },
+        {
+            "eng": "Not bad.",
+            "kor": "나쁘지 않은데요 (그런대로 좋군요)"
+        },
+        {
+            "eng": "Not really.",
+            "kor": "그렇지는 않아"
+        },
+        {
+            "eng": "Not too good.",
+            "kor": "(Not too bad) 그져 그래 (나쁘지도 않고)"
+        },
+        {
+            "eng": "Nothing much.",
+            "kor": "별거 없어"
+        },
+        {
+            "eng": "Nothing new.",
+            "kor": "뭐 새소식이랄 것도 없지 (누가 ‘새로운 소식이라도 좀 있어?’ 라고 물어 볼 때)"
+        },
+        {
+            "eng": "Nothing new about that.",
+            "kor": "그것에 대해선 달라진게 없어죠."
+        },
+        {
+            "eng": "Now what?",
+            "kor": "그래서요?"
+        },
+        {
+            "eng": "Now you are talking.",
+            "kor": "이제야 서로 말이 통하는군"
+        }
+    ],
+    "O": [
+        {
+            "eng": "Occupied.",
+            "kor": "사용중 (비행기 기내 화장실 등에서 문에 표지로)"
+        },
+        {
+            "eng": "Oh, dear!",
+            "kor": "아니 저런"
+        },
+        {
+            "eng": "Okay.",
+            "kor": "그래. 알았어요."
+        },
+        {
+            "eng": "Okeydokey",
+            "kor": "(가까운 사이에서만 사용) 좋아요 (OK 의 귀염귀염 버전)"
+        },
+        {
+            "eng": "On the contrary.",
+            "kor": "반대로"
+        },
+        {
+            "eng": "Once in a blue moon.",
+            "kor": "아주 가끔요"
+        },
+        {
+            "eng": "Ouch!",
+            "kor": "아야"
+        },
+        {
+            "eng": "Out of the question.",
+            "kor": "질문의 여지가 없습니다 (불가능 합니다. 강력한 No)"
+        }
+    ],
+    "P": [
+        {
+            "eng": "Pick it up!",
+            "kor": "주우세요!"
+        },
+        {
+            "eng": "Please enjoy yourself.",
+            "kor": "자 그럼 즐기세요 (격려할 때는 좀 즐기도록 해의 뜻도)"
+        },
+        {
+            "eng": "Please relax.",
+            "kor": "좀 느긋해 지세요"
+        },
+        {
+            "eng": "Please!",
+            "kor": "제발"
+        },
+        {
+            "eng": "Poor thing.",
+            "kor": "저런 (안스러워요, 불쌍해요 정도의 의미)"
+        },
+        {
+            "eng": "Pretty good!",
+            "kor": "정말 좋지요"
+        },
+        {
+            "eng": "Really?",
+            "kor": "정말?"
+        },
+        {
+            "eng": "Relax.",
+            "kor": "좀 느긋해 지세요."
+        }
+    ],
+    "S": [
+        {
+            "eng": "Same here.",
+            "kor": "저도 동감입니다"
+        },
+        {
+            "eng": "Same to you.",
+            "kor": "당신도요"
+        },
+        {
+            "eng": "Say cheese!",
+            "kor": "김~~치 (사진찍을 때 쓰는 말)"
+        },
+        {
+            "eng": "Say hello for me.",
+            "kor": "나 대신 안부 전해줘요"
+        },
+        {
+            "eng": "Say that again?",
+            "kor": "다시 말씀해 주실래요? (잘 못알아 들었을 때 엄청 많이 쓰는 표현)"
+        },
+        {
+            "eng": "Say when.",
+            "kor": "그만이라고 말해주세요 (잔 등에 음료수나 물을 따를 때 언제 그만 따를까요라고 물어볼 때)"
+        },
+        {
+            "eng": "See you later!",
+            "kor": "나중에 봐요"
+        },
+        {
+            "eng": "See you.",
+            "kor": "나중에 봐요"
+        },
+        {
+            "eng": "Serious?",
+            "kor": "진심이에요?"
+        },
+        {
+            "eng": "Shame on you.",
+            "kor": "쪽 팔린 줄 알아! (거의 정중한 욕입니다)"
+        },
+        {
+            "eng": "She is my style.",
+            "kor": "그녀는 내 타입이에요"
+        },
+        {
+            "eng": "She is very sophisticated.",
+            "kor": "그녀는 매우 세련되었어요"
+        },
+        {
+            "eng": "Shoot!",
+            "kor": "제기랄!"
+        },
+        {
+            "eng": "Skip it!",
+            "kor": "다음으로 넘어 가요"
+        },
+        {
+            "eng": "So much for that.",
+            "kor": "이제 그일은 그만 하지요"
+        },
+        {
+            "eng": "So soon?",
+            "kor": "그리 빨리?"
+        },
+        {
+            "eng": "So what?",
+            "kor": "어쩌라고?"
+        },
+        {
+            "eng": "Sold out.",
+            "kor": "매진"
+        },
+        {
+            "eng": "Something's fishy.",
+            "kor": "뭔가 이상한데 (뭔가 냄새가 나)"
+        },
+        {
+            "eng": "Something's never changed.",
+            "kor": "절대 안변하는게 있지"
+        },
+        {
+            "eng": "Sorry to bother you.",
+            "kor": "번거롭게 해서 죄송 합니다"
+        },
+        {
+            "eng": "Sorry?",
+            "kor": "(누구의 말을 잘못 이해했을 때) 뭐라구 하셨지요?"
+        },
+        {
+            "eng": "Sounds good.",
+            "kor": "좋은 생각이예요"
+        },
+        {
+            "eng": "Speak out.",
+            "kor": "말좀 크게 하세요"
+        },
+        {
+            "eng": "Speaking.",
+            "kor": "말하세요"
+        },
+        {
+            "eng": "Speaking Spanish?",
+            "kor": "스페인어 하세요?"
+        },
+        {
+            "eng": "Stay cool.",
+            "kor": "진정해요"
+        },
+        {
+            "eng": "Stay longer.",
+            "kor": "좀더 계시지요."
+        },
+        {
+            "eng": "Stay out of trouble.",
+            "kor": "괜히 껴들지 마세요"
+        },
+        {
+            "eng": "Stick around.",
+            "kor": "옆에 있어 보세요 (상황에 따라 '지켜보세요' 라고도 쓰여요)"
+        },
+        {
+            "eng": "Stick with it.",
+            "kor": "(포기 하지말고) 계속 해 봐요."
+        },
+        {
+            "eng": "Stop complaining.",
+            "kor": "불평좀 그만 하시지요"
+        },
+        {
+            "eng": "Suit yourself!",
+            "kor": "좋을대로 하세요"
+        },
+        {
+            "eng": "Super.",
+            "kor": "짱!"
+        },
+        {
+            "eng": "Sure.",
+            "kor": "물론"
+        },
+        {
+            "eng": "Sure thing.",
+            "kor": "물론이지"
+        },
+        {
+            "eng": "Sweet dreams.",
+            "kor": "잘 자요 (성시경 톤으로 해야 함)"
+        }
+    ],
+    "T": [
+        {
+            "eng": "Take a guess. (Can you guess?)",
+            "kor": "맞춰봐요"
+        },
+        {
+            "eng": "Take care!",
+            "kor": "잘가~~ (원 뜻과 달리 헤어질 때 잘가라는 말고 가장 많이 씁니다. 병실에서야 ‘몸조리 잘해'가 되겠지만)"
+        },
+        {
+            "eng": "Take my word for it.",
+            "kor": "그건 내 말만 믿어봐"
+        },
+        {
+            "eng": "Take your time.",
+            "kor": "천천히 하세요"
+        },
+        {
+            "eng": "Tell me about it.",
+            "kor": "내 말이~~ (강하게 긍정할 때)"
+        },
+        {
+            "eng": "Thank God.",
+            "kor": "아이고~~ (안도의 한숨을 쉴 때)"
+        },
+        {
+            "eng": "Thanks for calling.",
+            "kor": "전화 주셔서 감사 해요"
+        },
+        {
+            "eng": "Thanks for everything.",
+            "kor": "여러가지로 고마워요"
+        },
+        {
+            "eng": "Thanks for the compliment.",
+            "kor": "칭찬해 주셔서 감사 합니다"
+        },
+        {
+            "eng": "Thanks for the ride.",
+            "kor": "차를 태워다 주어서 고마워요"
+        },
+        {
+            "eng": "Thanks, but no thanks.",
+            "kor": "감사해요, 그러나 전 됐어요."
+        },
+        {
+            "eng": "That depends.",
+            "kor": "그야 경우에 따라서이지요"
+        },
+        {
+            "eng": "That figures.",
+            "kor": "바로 그거군요"
+        },
+        {
+            "eng": "That happens.",
+            "kor": "그런 일도 있지요"
+        },
+        {
+            "eng": "That should help.",
+            "kor": "도움이 될겁니다"
+        },
+        {
+            "eng": "That sounds good.",
+            "kor": "그거 좋은 아이디어네요"
+        },
+        {
+            "eng": "That will be the day.",
+            "kor": "그렇게 되면 오죽 좋겠어요 (그런 일은 내게 일어날리가 없어!)"
+        },
+        {
+            "eng": "That's a steal.",
+            "kor": "거저 가져 가는 셈이지요 (쌉니다, 공짜나 다름 없어요)"
+        },
+        {
+            "eng": "That's all right.",
+            "kor": "(그건) 괜찮아요"
+        },
+        {
+            "eng": "That's all there is to it.",
+            "kor": "그게 다지 뭐"
+        },
+        {
+            "eng": "That's all?",
+            "kor": "그게 다야?"
+        },
+        {
+            "eng": "That's enough about that.",
+            "kor": "그정도로 충분합니다"
+        },
+        {
+            "eng": "That's enough.",
+            "kor": "이제 되었어요"
+        },
+        {
+            "eng": "That's good.",
+            "kor": "잘 되었네요"
+        },
+        {
+            "eng": "That's hard to say.",
+            "kor": "뭐라 말하기 곤란하네요"
+        },
+        {
+            "eng": "That's it.",
+            "kor": "바로 그거야"
+        },
+        {
+            "eng": "That's a nice surprise!",
+            "kor": "이거 뜻밖인데요"
+        },
+        {
+            "eng": "That's not fair.",
+            "kor": "불공평해"
+        },
+        {
+            "eng": "That's right.",
+            "kor": "맞습니다"
+        },
+        {
+            "eng": "That's the way to go.",
+            "kor": "그래 그렇게 하는거지"
+        },
+        {
+            "eng": "That's what I mean.",
+            "kor": "내 말이! (그게 내가 말하고자 하는 바야)"
+        },
+        {
+            "eng": "There you are.",
+            "kor": "여기 있습니다"
+        },
+        {
+            "eng": "Things will work out all right.",
+            "kor": "다 잘될거야"
+        },
+        {
+            "eng": "This is just between you and me.",
+            "kor": "우리들만의 비밀입니다"
+        },
+        {
+            "eng": "This is not much.",
+            "kor": "약소합니다"
+        },
+        {
+            "eng": "This is urgent.",
+            "kor": "긴급입니다"
+        },
+        {
+            "eng": "This one?",
+            "kor": "이것 말이에요?"
+        },
+        {
+            "eng": "Time will tell.",
+            "kor": "시간이 해결해 줄거예요 (시간이 말해 줄것입니다)"
+        },
+        {
+            "eng": "Time's up.",
+            "kor": "땡! 시간이 다 되었어요"
+        },
+        {
+            "eng": "Too bad!",
+            "kor": "안 되었네요"
+        },
+        {
+            "eng": "Too expensive.",
+            "kor": "너무 비싸네"
+        },
+        {
+            "eng": "To the best of my knowledge~",
+            "kor": "적어도 내가 알기로는~"
+        },
+        {
+            "eng": "Trust me.",
+            "kor": "날 믿어바바"
+        },
+        {
+            "eng": "Try again.",
+            "kor": "다시 해 보세요"
+        }
+    ],
+    "U": [
+        {
+            "eng": "Uh-uh",
+            "kor": "이런!"
+        },
+        {
+            "eng": "Unbelievable.",
+            "kor": "말도 안돼!"
+        },
+        {
+            "eng": "Up to here.",
+            "kor": "(목까지 손으로 대어 보이면서)폭발 일보직전이다 (여기까지 찼어)"
+        },
+        {
+            "eng": "Up, or down?",
+            "kor": "(엘리베이터에서) 올라가요? 아니면 내려가요?"
+        }
+    ],
+    "W": [
+        {
+            "eng": "Wait a minute.",
+            "kor": "잠시만 기다리세요"
+        },
+        {
+            "eng": "Watch out!",
+            "kor": "위험해, 주의해요"
+        },
+        {
+            "eng": "Watch your language.",
+            "kor": "말 조심해요"
+        },
+        {
+            "eng": "We are in the same boat.",
+            "kor": "우리는 같은 처지/운명이지요"
+        },
+        {
+            "eng": "Welcome home!",
+            "kor": "집에 온것을 환영합니다"
+        },
+        {
+            "eng": "Well done.",
+            "kor": "잘 했어요"
+        },
+        {
+            "eng": "What a nerve!",
+            "kor": "뻔뻔 하군요 (간댕이가 부었군)"
+        },
+        {
+            "eng": "What a relief!",
+            "kor": "이제 맘이 놓인다"
+        },
+        {
+            "eng": "What a shame.",
+            "kor": "완전 창피한 일이지"
+        },
+        {
+            "eng": "What about it?",
+            "kor": "그게 어떤데요?"
+        },
+        {
+            "eng": "What about you?",
+            "kor": "당신은 어때요?"
+        },
+        {
+            "eng": "What brings you here?",
+            "kor": "어떻게 오셨지요?"
+        },
+        {
+            "eng": "What did you say?",
+            "kor": "뭐라구요?"
+        },
+        {
+            "eng": "What do you do?",
+            "kor": "직업이 뭐지요?"
+        },
+        {
+            "eng": "What do you know?",
+            "kor": "무엇을 알고 있지요?"
+        },
+        {
+            "eng": "What do you mean?",
+            "kor": "무슨 의미지요?"
+        },
+        {
+            "eng": "What do you say?",
+            "kor": "뭐라고 하실래요? 어떠세요?"
+        },
+        {
+            "eng": "What do you think of it?",
+            "kor": "이것에 대해서 뭐라고 생각 하세요?"
+        },
+        {
+            "eng": "What do you think?",
+            "kor": "무엇이라고 생각하세요?"
+        },
+        {
+            "eng": "What for? (For what?)",
+            "kor": "뭣땀시?"
+        },
+        {
+            "eng": "What is it?",
+            "kor": "무슨 일이지요?"
+        },
+        {
+            "eng": "What makes you say that?",
+            "kor": "무슨 근거로 그렇게 말하세요?"
+        },
+        {
+            "eng": "What time is it?",
+            "kor": "몇시지요?"
+        },
+        {
+            "eng": "What?",
+            "kor": "뭐라구요?"
+        },
+        {
+            "eng": "What’s it called?",
+            "kor": "그것을 뭐라고 부르지요?"
+        },
+        {
+            "eng": "What’s today's special?",
+            "kor": "오늘 특선 요리가 뭐지요?"
+        },
+        {
+            "eng": "Whatever you say.",
+            "kor": "뭐라고 하시던지요"
+        },
+        {
+            "eng": "What's happening?",
+            "kor": "어떻게 지내요?"
+        },
+        {
+            "eng": "What's new?",
+            "kor": "그동안 새로운 거 있었어요?"
+        },
+        {
+            "eng": "What's the big deal?",
+            "kor": "그래서 어쩌라구?"
+        },
+        {
+            "eng": "What's the point?",
+            "kor": "요점이 뭐지요?"
+        },
+        {
+            "eng": "What's up?",
+            "kor": "헤이 (일상적인 인사)"
+        },
+        {
+            "eng": "What's wrong?",
+            "kor": "뭐가 문제지요?"
+        },
+        {
+            "eng": "When?",
+            "kor": "언제?"
+        },
+        {
+            "eng": "Where are we?",
+            "kor": "여기가 어디야?"
+        },
+        {
+            "eng": "Where did you stay?",
+            "kor": "어디에 머물렀어요?"
+        },
+        {
+            "eng": "Where do you live?",
+            "kor": "어디에 사세요?"
+        },
+        {
+            "eng": "Where is a drugstore?",
+            "kor": "약국이 어디에 있지요?"
+        },
+        {
+            "eng": "Where to ?",
+            "kor": "어디로?"
+        },
+        {
+            "eng": "Which one?",
+            "kor": "어느 것이요?"
+        },
+        {
+            "eng": "Who cares!",
+            "kor": "알게 뭐야 상관하지 않아"
+        },
+        {
+            "eng": "Who is it?",
+            "kor": "누구시지요?"
+        },
+        {
+            "eng": "Who knows?",
+            "kor": "누가 알겠어"
+        },
+        {
+            "eng": "Who's there?",
+            "kor": "거기 누구죠?"
+        },
+        {
+            "eng": "Who's calling?",
+            "kor": "(전화를 받으면서) 누구시지요?"
+        },
+        {
+            "eng": "Why didn't I think of that?",
+            "kor": "왜 그걸 생각 못했지?"
+        },
+        {
+            "eng": "Why not?",
+            "kor": "왜 안되겠어/왜 안되는데 ?"
+        },
+        {
+            "eng": "Why?",
+            "kor": "왜?"
+        },
+        {
+            "eng": "Win-win situation.",
+            "kor": "양쪽 다 좋은 일이지"
+        },
+        {
+            "eng": "With pleasure.",
+            "kor": "기꺼이"
+        },
+        {
+            "eng": "Would you like some?",
+            "kor": "좀 드셔보실래요?"
+        },
+        {
+            "eng": "Wow!",
+            "kor": "와우"
+        }
+    ],
+    "Y": [
+        {
+            "eng": "Yeah.",
+            "kor": "네"
+        },
+        {
+            "eng": "Yes and no.",
+            "kor": "yes 이기도 하고 no 이기도 하고"
+        },
+        {
+            "eng": "You are a lucky duck.",
+            "kor": "당신은 행운아!"
+        },
+        {
+            "eng": "You are driving me crazy.",
+            "kor": "절 완전 짜증나게 하시네요"
+        },
+        {
+            "eng": "You are getting better.",
+            "kor": "당신은 점점 좋아지네요"
+        },
+        {
+            "eng": "You are soaked!",
+            "kor": "흠뻑 젖었군요"
+        },
+        {
+            "eng": "You are teasing me.",
+            "kor": "지금 절 놀리시는 거죠?"
+        },
+        {
+            "eng": "You're telling me.",
+            "kor": "완죤 동감!"
+        },
+        {
+            "eng": "You are too much.",
+            "kor": "당신 너무하는 군요"
+        },
+        {
+            "eng": "You bet.",
+            "kor": "당연하신 말씀 (물론이지요)"
+        },
+        {
+            "eng": "You bet?",
+            "kor": "내기 할래? (자신할 수 있어?)"
+        },
+        {
+            "eng": "You cannot fool me.",
+            "kor": "날 속일 수 있다고 생각하지 마"
+        },
+        {
+            "eng": "You can say that again.",
+            "kor": "지당한 말씀이지요"
+        },
+        {
+            "eng": "You first.",
+            "kor": "먼저 하세요"
+        },
+        {
+            "eng": "You flatter me.",
+            "kor": "저를 우쭐하게 만들어주시네요 (보통은 감사의 의미)"
+        },
+        {
+            "eng": "You have the wrong number.",
+            "kor": "전화를 잘 못 거셨어요"
+        },
+        {
+            "eng": "You got it.",
+            "kor": "이해를 하셨군요"
+        },
+        {
+            "eng": "You have lost me.",
+            "kor": "제가 말을 놓쳤네요 (무슨 말씀을 하시는지 잘 모르겠어요)"
+        },
+        {
+            "eng": "You look good.",
+            "kor": "좋아 보이네요"
+        },
+        {
+            "eng": "You must be crazy.",
+            "kor": "당신은 미친게 틀림없어"
+        },
+        {
+            "eng": "You name it.",
+            "kor": "말씀만 하세요"
+        },
+        {
+            "eng": "You said it.",
+            "kor": "지당하신 말씀"
+        },
+        {
+            "eng": "You should get in shape.",
+            "kor": "몸을 좀 가꾸는게 좋겠는데요 (살을 좀 빼는게 좋겠네요 라는 의미로도 쓰여요)"
+        },
+        {
+            "eng": "You stay out of it.",
+            "kor": "넌 이것에 끼어 들지 마"
+        },
+        {
+            "eng": "You went too far this time.",
+            "kor": "이번엔 좀 과하셨어요"
+        },
+        {
+            "eng": "You win.",
+            "kor": "당신이 이겼어요"
+        },
+        {
+            "eng": "You're wasting your time.",
+            "kor": "당신은 시간만 낭비 하고 있어요"
+        },
+        {
+            "eng": "You're welcome.",
+            "kor": "천만에요"
+        }
+    ]
+}

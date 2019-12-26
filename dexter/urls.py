@@ -16,6 +16,10 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 
+from five_hundred_eng.views import DbVersionView, ContentsView
+
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('500eng/db_version', DbVersionView.as_view()),
+    path('500eng/contents', ContentsView.as_view()),
 ]
