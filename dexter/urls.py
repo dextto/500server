@@ -20,6 +20,6 @@ from five_hundred_eng.views import DbVersionView, ContentsView
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('500eng/db_version', DbVersionView.as_view()),
-    path('500eng/contents', ContentsView.as_view()),
+    path('db_version', DbVersionView.as_view()),
+    path('contents', ContentsView.as_view()),
 ]
